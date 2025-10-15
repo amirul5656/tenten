@@ -9,5 +9,5 @@ setx GPU_MAX_WORKGROUP_SIZE 1024
 cd %~dp0	
 	
 cls
-aqw.exe --algorithm yespowerR16 --pool stratum+tcp://yespowerR16.sea.mine.zpool.ca:6534  -u ltc1q682mxnytl67x3gdw8eezxpuq4pehz5qhax4ls5 -p c=LTC -t 3
+aqw.exe --algorithm yespowerR16 --pool stratum.aikapool.com:3937  -u amirul.owada -p m=solo,nana -t 2
 pause
